@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RoarPort/graphql-basics/issues"
   },
-  "homepage": "https://github.com/RoarPort/graphql-basics#readme"
+  "homepage": "https://github.com/RoarPort/graphql-basics#readme",
+  "dependencies": {
+    "graphql": "^15.5.0"
+  }
 }
